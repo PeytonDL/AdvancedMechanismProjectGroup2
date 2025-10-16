@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  15 OCT 2025 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  16 OCT 2025 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -607,160 +607,152 @@ pa-ra-tus for Or-tho-sis/Prosthesis/CPM[][] []
 
 
 [3]
-<images/US4509509.png, id=363, 558.888pt x 820.9872pt>
-File: images/US4509509.png Graphic file (type png)
-<use images/US4509509.png>
-Package pdftex.def Info: images/US4509509.png  used on input line 57.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
-<images/US4520827.png, id=364, 558.888pt x 820.9872pt>
-File: images/US4520827.png Graphic file (type png)
-<use images/US4520827.png>
-Package pdftex.def Info: images/US4520827.png  used on input line 70.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+<../images/US4509509.png, id=363, 598.3956pt x 217.0509pt>
+File: ../images/US4509509.png Graphic file (type png)
+<use ../images/US4509509.png>
+Package pdftex.def Info: ../images/US4509509.png  used on input line 57.
+(pdftex.def)             Requested size: 253.66455pt x 92.0086pt.
+<../images/US4520827.png, id=364, 620.0766pt x 431.9337pt>
+File: ../images/US4520827.png Graphic file (type png)
+<use ../images/US4520827.png>
+Package pdftex.def Info: ../images/US4520827.png  used on input line 70.
+(pdftex.def)             Requested size: 253.66455pt x 176.69852pt.
 
 
-[4 <./images/US4509509.png>]
-<images/US4549534.png, id=370, 558.888pt x 820.9872pt>
-File: images/US4549534.png Graphic file (type png)
-<use images/US4549534.png>
-Package pdftex.def Info: images/US4549534.png  used on input line 83.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+[4 <../images/US4509509.png> <../images/US4520827.png>]
+<../images/US4549534.png, id=371, 661.2705pt x 425.9112pt>
+File: ../images/US4549534.png Graphic file (type png)
+<use ../images/US4549534.png>
+Package pdftex.def Info: ../images/US4549534.png  used on input line 83.
+(pdftex.def)             Requested size: 253.66455pt x 163.37517pt.
+<../images/US4566440_1.png, id=372, 687.0468pt x 382.0674pt>
+File: ../images/US4566440_1.png Graphic file (type png)
+<use ../images/US4566440_1.png>
+Package pdftex.def Info: ../images/US4566440_1.png  used on input line 96.
+(pdftex.def)             Requested size: 253.66455pt x 141.06538pt.
 
 
-[5 <./images/US4520827.png>]
-<images/US4566440_1.png, id=376, 558.888pt x 820.9872pt>
-File: images/US4566440_1.png Graphic file (type png)
-<use images/US4566440_1.png>
-Package pdftex.def Info: images/US4566440_1.png  used on input line 96.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+[5 <../images/US4549534.png> <../images/US4566440_1.png>]
+<../images/US4974830_1.png, id=380, 346.4142pt x 189.1065pt>
+File: ../images/US4974830_1.png Graphic file (type png)
+<use ../images/US4974830_1.png>
+Package pdftex.def Info: ../images/US4974830_1.png  used on input line 109.
+(pdftex.def)             Requested size: 253.66455pt x 138.47653pt.
+<../images/US5203321_1.png, id=381, 395.7987pt x 415.0707pt>
+File: ../images/US5203321_1.png Graphic file (type png)
+<use ../images/US5203321_1.png>
+Package pdftex.def Info: ../images/US5203321_1.png  used on input line 122.
+(pdftex.def)             Requested size: 253.66455pt x 266.01167pt.
 
 
-[6 <./images/US4549534.png>]
-<images/US4974830_1.png, id=383, 558.888pt x 820.9872pt>
-File: images/US4974830_1.png Graphic file (type png)
-<use images/US4974830_1.png>
-Package pdftex.def Info: images/US4974830_1.png  used on input line 109.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+[6 <../images/US4974830_1.png>]
+<../images/US5333604_1.png, id=387, 432.4155pt x 299.1978pt>
+File: ../images/US5333604_1.png Graphic file (type png)
+<use ../images/US5333604_1.png>
+Package pdftex.def Info: ../images/US5333604_1.png  used on input line 135.
+(pdftex.def)             Requested size: 253.66455pt x 175.5162pt.
 
 
-[7 <./images/US4566440_1.png>]
-<images/US5203321_1.png, id=390, 558.888pt x 820.9872pt>
-File: images/US5203321_1.png Graphic file (type png)
-<use images/US5203321_1.png>
-Package pdftex.def Info: images/US5203321_1.png  used on input line 122.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+[7 <../images/US5203321_1.png> <../images/US5333604_1.png>]
+<../images/US6267735B1_1.png, id=395, 563.706pt x 419.4069pt>
+File: ../images/US6267735B1_1.png Graphic file (type png)
+<use ../images/US6267735B1_1.png>
+Package pdftex.def Info: ../images/US6267735B1_1.png  used on input line 148.
+(pdftex.def)             Requested size: 253.66455pt x 188.72496pt.
+<../images/US6325770B1_1.png, id=396, 466.8642pt x 363.0363pt>
+File: ../images/US6325770B1_1.png Graphic file (type png)
+<use ../images/US6325770B1_1.png>
+Package pdftex.def Info: ../images/US6325770B1_1.png  used on input line 161.
+(pdftex.def)             Requested size: 253.66455pt x 197.24983pt.
 
 
-[8 <./images/US4974830_1.png>]
-<images/US5333604_1.png, id=396, 558.888pt x 820.9872pt>
-File: images/US5333604_1.png Graphic file (type png)
-<use images/US5333604_1.png>
-Package pdftex.def Info: images/US5333604_1.png  used on input line 135.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+[8 <../images/US6267735B1_1.png>]
+<../images/US5252102_1.png, id=402, 666.3294pt x 452.892pt>
+File: ../images/US5252102_1.png Graphic file (type png)
+<use ../images/US5252102_1.png>
+Package pdftex.def Info: ../images/US5252102_1.png  used on input line 174.
+(pdftex.def)             Requested size: 253.66455pt x 172.41171pt.
 
 
-[9 <./images/US5203321_1.png>]
-<images/US6267735B1_1.png, id=402, 558.888pt x 820.9872pt>
-File: images/US6267735B1_1.png Graphic file (type png)
-<use images/US6267735B1_1.png>
-Package pdftex.def Info: images/US6267735B1_1.png  used on input line 148.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+[9 <../images/US6325770B1_1.png> <../images/US5252102_1.png>]
+<../images/US5280783_1.png, id=409, 409.7709pt x 463.9734pt>
+File: ../images/US5280783_1.png Graphic file (type png)
+<use ../images/US5280783_1.png>
+Package pdftex.def Info: ../images/US5280783_1.png  used on input line 187.
+(pdftex.def)             Requested size: 253.66455pt x 287.21451pt.
+<../images/4492222A_1.png, id=410, 669.9429pt x 436.029pt>
+File: ../images/4492222A_1.png Graphic file (type png)
+<use ../images/4492222A_1.png>
+Package pdftex.def Info: ../images/4492222A_1.png  used on input line 200.
+(pdftex.def)             Requested size: 253.66455pt x 165.09393pt.
 
 
-[10 <./images/US5333604_1.png>]
-<images/US6325770B1_1.png, id=408, 558.888pt x 820.9872pt>
-File: images/US6325770B1_1.png Graphic file (type png)
-<use images/US6325770B1_1.png>
-Package pdftex.def Info: images/US6325770B1_1.png  used on input line 161.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
-
-
-[11 <./images/US6267735B1_1.png>]
-<images/US5252102_1.png, id=414, 558.888pt x 820.9872pt>
-File: images/US5252102_1.png Graphic file (type png)
-<use images/US5252102_1.png>
-Package pdftex.def Info: images/US5252102_1.png  used on input line 174.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
-
-
-[12 <./images/US6325770B1_1.png>]
-<images/US5280783_1.png, id=420, 558.888pt x 820.9872pt>
-File: images/US5280783_1.png Graphic file (type png)
-<use images/US5280783_1.png>
-Package pdftex.def Info: images/US5280783_1.png  used on input line 187.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
-
-
-[13 <./images/US5252102_1.png>]
-<images/4492222A_1.png, id=427, 558.888pt x 820.9872pt>
-File: images/4492222A_1.png Graphic file (type png)
-<use images/4492222A_1.png>
-Package pdftex.def Info: images/4492222A_1.png  used on input line 200.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
-
-
-[14 <./images/US5280783_1.png>]
-<images/10272291B2_1.png, id=434, 435.7881pt x 609.477pt>
-File: images/10272291B2_1.png Graphic file (type png)
-<use images/10272291B2_1.png>
-Package pdftex.def Info: images/10272291B2_1.png  used on input line 213.
+[10 <../images/US5280783_1.png>]
+<../images/10272291B2_1.png, id=416, 435.7881pt x 609.477pt>
+File: ../images/10272291B2_1.png Graphic file (type png)
+<use ../images/10272291B2_1.png>
+Package pdftex.def Info: ../images/10272291B2_1.png  used on input line 213.
 (pdftex.def)             Requested size: 253.66455pt x 354.76169pt.
 
 
-[15 <./images/4492222A_1.png>]
-<images/US4603687_1.png, id=440, 558.888pt x 820.9872pt>
-File: images/US4603687_1.png Graphic file (type png)
-<use images/US4603687_1.png>
-Package pdftex.def Info: images/US4603687_1.png  used on input line 226.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+[11 <../images/4492222A_1.png>]
+<../images/US4603687_1.png, id=423, 675.2427pt x 478.9092pt>
+File: ../images/US4603687_1.png Graphic file (type png)
+<use ../images/US4603687_1.png>
+Package pdftex.def Info: ../images/US4603687_1.png  used on input line 226.
+(pdftex.def)             Requested size: 253.66455pt x 179.90472pt.
 
 
-[16 <./images/10272291B2_1.png>]
-<images/US5239987-drawings-page-3.png, id=446, 558.888pt x 820.9872pt>
-File: images/US5239987-drawings-page-3.png Graphic file (type png)
-<use images/US5239987-drawings-page-3.png>
-Package pdftex.def Info: images/US5239987-drawings-page-3.png  used on input li
-ne 239.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+[12 <../images/10272291B2_1.png>]
+<../images/US5239987-drawings-page-3.png, id=429, 680.3016pt x 411.2163pt>
+File: ../images/US5239987-drawings-page-3.png Graphic file (type png)
+<use ../images/US5239987-drawings-page-3.png>
+Package pdftex.def Info: ../images/US5239987-drawings-page-3.png  used on input
+ line 239.
+(pdftex.def)             Requested size: 253.66455pt x 153.32727pt.
 
 
-[17 <./images/US4603687_1.png>]
-<images/US4546763-drawings-page-2.png, id=452, 558.888pt x 820.9872pt>
-File: images/US4546763-drawings-page-2.png Graphic file (type png)
-<use images/US4546763-drawings-page-2.png>
-Package pdftex.def Info: images/US4546763-drawings-page-2.png  used on input li
-ne 252.
-(pdftex.def)             Requested size: 253.66455pt x 372.62274pt.
+[13 <../images/US4603687_1.png> <../images/US5239987-drawings-page-3.png>]
+<../images/US4546763-drawings-page-2.png, id=437, 395.5578pt x 601.0455pt>
+File: ../images/US4546763-drawings-page-2.png Graphic file (type png)
+<use ../images/US4546763-drawings-page-2.png>
+Package pdftex.def Info: ../images/US4546763-drawings-page-2.png  used on input
+ line 252.
+(pdftex.def)             Requested size: 253.66455pt x 385.44736pt.
 
 
-[18 <./images/US5239987-drawings-page-3.png>]
+[14 <../images/US4546763-drawings-page-2.png>]
 
-[19 <./images/US4546763-drawings-page-2.png>] (./main.aux)
+[15] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D137CFA9ACC757EC407AE680DE87F229;11624.
  ) 
 Here is how much of TeX's memory you used:
- 14906 strings out of 473190
- 240441 string characters out of 5715801
- 682220 words of memory out of 5000000
+ 14902 strings out of 473190
+ 240749 string characters out of 5715801
+ 682222 words of memory out of 5000000
  37778 multiletter control sequences out of 15000+600000
  611333 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,1001b,558s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,1001b,558s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
 e/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texm
 f-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/font
 s/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/pub
 lic/lm/lmri10.pfb>
-Output written on main.pdf (19 pages, 1176916 bytes).
+Output written on main.pdf (15 pages, 1057760 bytes).
 PDF statistics:
- 519 PDF objects out of 1000 (max. 8388607)
- 465 compressed objects within 5 object streams
- 105 named destinations out of 1000 (max. 500000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 451 compressed objects within 5 object streams
+ 101 named destinations out of 1000 (max. 500000)
  29289 words of extra memory for PDF output out of 29859 (max. 10000000)
 
