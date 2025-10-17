@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  17 OCT 2025 15:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  17 OCT 2025 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -610,13 +610,13 @@ pa-ra-tus for Or-tho-sis/Prosthesis/CPM[][] []
 <../images/US4509509.png, id=589, 598.3956pt x 217.0509pt>
 File: ../images/US4509509.png Graphic file (type png)
 <use ../images/US4509509.png>
-Package pdftex.def Info: ../images/US4509509.png  used on input line 57.
+Package pdftex.def Info: ../images/US4509509.png  used on input line 53.
 (pdftex.def)             Requested size: 253.66455pt x 92.0086pt.
 <../Kinematic Mechanism Images/4509509.png, id=590, 424.58624pt x 557.08125pt>
 File: ../Kinematic Mechanism Images/4509509.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/4509509.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/4509509.png  used on inp
-ut line 65.
+ut line 61.
 (pdftex.def)             Requested size: 253.66455pt x 332.82327pt.
 
 
@@ -624,7 +624,7 @@ ut line 65.
 <../images/US4549534.png, id=599, 661.2705pt x 425.9112pt>
 File: ../images/US4549534.png Graphic file (type png)
 <use ../images/US4549534.png>
-Package pdftex.def Info: ../images/US4549534.png  used on input line 93.
+Package pdftex.def Info: ../images/US4549534.png  used on input line 89.
 (pdftex.def)             Requested size: 253.66455pt x 163.37517pt.
 
 
@@ -635,7 +635,7 @@ c}{C:/Users/peyto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C
 File: ../Kinematic Mechanism Images/4549534.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/4549534.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/4549534.png  used on inp
-ut line 101.
+ut line 97.
 (pdftex.def)             Requested size: 253.66455pt x 374.00331pt.
 
 
@@ -643,13 +643,13 @@ ut line 101.
 <../images/US4566440_1.png, id=617, 687.0468pt x 382.0674pt>
 File: ../images/US4566440_1.png Graphic file (type png)
 <use ../images/US4566440_1.png>
-Package pdftex.def Info: ../images/US4566440_1.png  used on input line 129.
+Package pdftex.def Info: ../images/US4566440_1.png  used on input line 125.
 (pdftex.def)             Requested size: 253.66455pt x 141.06538pt.
 <../Kinematic Mechanism Images/4566440.png, id=618, 457.71pt x 715.17188pt>
 File: ../Kinematic Mechanism Images/4566440.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/4566440.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/4566440.png  used on inp
-ut line 137.
+ut line 133.
 (pdftex.def)             Requested size: 253.66455pt x 396.34671pt.
 
 
@@ -659,13 +659,13 @@ ut line 137.
 <../images/US4974830_1.png, id=631, 346.4142pt x 189.1065pt>
 File: ../images/US4974830_1.png Graphic file (type png)
 <use ../images/US4974830_1.png>
-Package pdftex.def Info: ../images/US4974830_1.png  used on input line 165.
+Package pdftex.def Info: ../images/US4974830_1.png  used on input line 161.
 (pdftex.def)             Requested size: 253.66455pt x 138.47653pt.
 <../Kinematic Mechanism Images/4974830.png, id=632, 459.96844pt x 700.11563pt>
 File: ../Kinematic Mechanism Images/4974830.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/4974830.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/4974830.png  used on inp
-ut line 173.
+ut line 169.
 (pdftex.def)             Requested size: 253.66455pt x 386.11171pt.
 
 
@@ -675,13 +675,13 @@ ut line 173.
 <../images/US5333604_1.png, id=644, 432.4155pt x 299.1978pt>
 File: ../images/US5333604_1.png Graphic file (type png)
 <use ../images/US5333604_1.png>
-Package pdftex.def Info: ../images/US5333604_1.png  used on input line 201.
+Package pdftex.def Info: ../images/US5333604_1.png  used on input line 197.
 (pdftex.def)             Requested size: 253.66455pt x 175.5162pt.
 <../Kinematic Mechanism Images/5333604.png, id=645, 441.90094pt x 666.23906pt>
 File: ../Kinematic Mechanism Images/5333604.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/5333604.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/5333604.png  used on inp
-ut line 209.
+ut line 205.
 (pdftex.def)             Requested size: 253.66455pt x 382.44402pt.
 
 
@@ -691,13 +691,13 @@ ut line 209.
 <../images/US6267735B1_1.png, id=658, 563.706pt x 419.4069pt>
 File: ../images/US6267735B1_1.png Graphic file (type png)
 <use ../images/US6267735B1_1.png>
-Package pdftex.def Info: ../images/US6267735B1_1.png  used on input line 237.
+Package pdftex.def Info: ../images/US6267735B1_1.png  used on input line 233.
 (pdftex.def)             Requested size: 253.66455pt x 188.72496pt.
 <../Kinematic Mechanism Images/6267735.png, id=659, 479.54156pt x 759.58781pt>
 File: ../Kinematic Mechanism Images/6267735.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/6267735.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/6267735.png  used on inp
-ut line 245.
+ut line 241.
 (pdftex.def)             Requested size: 253.66455pt x 401.80307pt.
 
 
@@ -707,13 +707,13 @@ ut line 245.
 <../images/US6325770B1_1.png, id=671, 466.8642pt x 363.0363pt>
 File: ../images/US6325770B1_1.png Graphic file (type png)
 <use ../images/US6325770B1_1.png>
-Package pdftex.def Info: ../images/US6325770B1_1.png  used on input line 273.
+Package pdftex.def Info: ../images/US6325770B1_1.png  used on input line 269.
 (pdftex.def)             Requested size: 253.66455pt x 197.24983pt.
 <../Kinematic Mechanism Images/6325770.png, id=672, 457.71pt x 705.38531pt>
 File: ../Kinematic Mechanism Images/6325770.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/6325770.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/6325770.png  used on inp
-ut line 281.
+ut line 277.
 (pdftex.def)             Requested size: 253.66455pt x 390.92303pt.
 
 
@@ -723,13 +723,13 @@ ut line 281.
 <../images/US5252102_1.png, id=684, 666.3294pt x 452.892pt>
 File: ../images/US5252102_1.png Graphic file (type png)
 <use ../images/US5252102_1.png>
-Package pdftex.def Info: ../images/US5252102_1.png  used on input line 309.
+Package pdftex.def Info: ../images/US5252102_1.png  used on input line 305.
 (pdftex.def)             Requested size: 253.66455pt x 172.41171pt.
 <../Kinematic Mechanism Images/5252102.png, id=685, 365.86688pt x 500.62032pt>
 File: ../Kinematic Mechanism Images/5252102.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/5252102.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/5252102.png  used on inp
-ut line 317.
+ut line 313.
 (pdftex.def)             Requested size: 253.66455pt x 347.09366pt.
 
 
@@ -739,13 +739,13 @@ ut line 317.
 <../images/4492222A_1.png, id=698, 669.9429pt x 436.029pt>
 File: ../images/4492222A_1.png Graphic file (type png)
 <use ../images/4492222A_1.png>
-Package pdftex.def Info: ../images/4492222A_1.png  used on input line 345.
+Package pdftex.def Info: ../images/4492222A_1.png  used on input line 341.
 (pdftex.def)             Requested size: 253.66455pt x 165.09393pt.
 <../Kinematic Mechanism Images/4492222.png, id=699, 439.6425pt x 573.64313pt>
 File: ../Kinematic Mechanism Images/4492222.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/4492222.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/4492222.png  used on inp
-ut line 353.
+ut line 349.
 (pdftex.def)             Requested size: 253.66455pt x 330.98013pt.
 
 
@@ -755,14 +755,14 @@ ut line 353.
 <../images/10272291B2_1.png, id=711, 435.7881pt x 609.477pt>
 File: ../images/10272291B2_1.png Graphic file (type png)
 <use ../images/10272291B2_1.png>
-Package pdftex.def Info: ../images/10272291B2_1.png  used on input line 381.
+Package pdftex.def Info: ../images/10272291B2_1.png  used on input line 377.
 (pdftex.def)             Requested size: 253.66455pt x 354.76169pt.
 <../Kinematic Mechanism Images/10272291.png, id=712, 429.85594pt x 575.14874pt>
 
 File: ../Kinematic Mechanism Images/10272291.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/10272291.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/10272291.png  used on in
-put line 389.
+put line 385.
 (pdftex.def)             Requested size: 253.66455pt x 339.40503pt.
 
 
@@ -772,13 +772,13 @@ put line 389.
 <../images/US4603687_1.png, id=724, 675.2427pt x 478.9092pt>
 File: ../images/US4603687_1.png Graphic file (type png)
 <use ../images/US4603687_1.png>
-Package pdftex.def Info: ../images/US4603687_1.png  used on input line 417.
+Package pdftex.def Info: ../images/US4603687_1.png  used on input line 413.
 (pdftex.def)             Requested size: 253.66455pt x 179.90472pt.
 <../Kinematic Mechanism Images/4603687.png, id=725, 539.76656pt x 675.27281pt>
 File: ../Kinematic Mechanism Images/4603687.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/4603687.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/4603687.png  used on inp
-ut line 425.
+ut line 421.
 (pdftex.def)             Requested size: 253.66455pt x 317.34735pt.
 
 
@@ -789,13 +789,13 @@ ut line 425.
 File: ../images/US5239987-drawings-page-3.png Graphic file (type png)
 <use ../images/US5239987-drawings-page-3.png>
 Package pdftex.def Info: ../images/US5239987-drawings-page-3.png  used on input
- line 453.
+ line 449.
 (pdftex.def)             Requested size: 253.66455pt x 153.32727pt.
 <../Kinematic Mechanism Images/5239987.png, id=739, 525.46312pt x 784.43062pt>
 File: ../Kinematic Mechanism Images/5239987.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/5239987.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/5239987.png  used on inp
-ut line 461.
+ut line 457.
 (pdftex.def)             Requested size: 253.66455pt x 378.67691pt.
 
 
@@ -806,7 +806,7 @@ ut line 461.
 File: ../images/US4546763-drawings-page-2.png Graphic file (type png)
 <use ../images/US4546763-drawings-page-2.png>
 Package pdftex.def Info: ../images/US4546763-drawings-page-2.png  used on input
- line 489.
+ line 485.
 (pdftex.def)             Requested size: 253.66455pt x 385.44736pt.
 
 
@@ -815,7 +815,7 @@ Package pdftex.def Info: ../images/US4546763-drawings-page-2.png  used on input
 File: ../Kinematic Mechanism Images/4546763.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/4546763.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/4546763.png  used on inp
-ut line 497.
+ut line 493.
 (pdftex.def)             Requested size: 253.66455pt x 335.55351pt.
 
 
@@ -825,13 +825,13 @@ ut line 497.
 <../images/US4637379A.png, id=768, 337.26pt x 371.3875pt>
 File: ../images/US4637379A.png Graphic file (type png)
 <use ../images/US4637379A.png>
-Package pdftex.def Info: ../images/US4637379A.png  used on input line 525.
+Package pdftex.def Info: ../images/US4637379A.png  used on input line 521.
 (pdftex.def)             Requested size: 253.66455pt x 279.33896pt.
 <../Kinematic Mechanism Images/4637379.png, id=769, 387.69844pt x 508.90125pt>
 File: ../Kinematic Mechanism Images/4637379.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/4637379.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/4637379.png  used on inp
-ut line 533.
+ut line 529.
 (pdftex.def)             Requested size: 253.66455pt x 332.97168pt.
 
 
@@ -841,13 +841,13 @@ ut line 533.
 <../images/US4665899A.png, id=783, 408.52625pt x 442.65375pt>
 File: ../images/US4665899A.png Graphic file (type png)
 <use ../images/US4665899A.png>
-Package pdftex.def Info: ../images/US4665899A.png  used on input line 561.
+Package pdftex.def Info: ../images/US4665899A.png  used on input line 557.
 (pdftex.def)             Requested size: 253.66455pt x 274.86124pt.
 <../Kinematic Mechanism Images/4665899.png, id=784, 506.6428pt x 673.76718pt>
 File: ../Kinematic Mechanism Images/4665899.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/4665899.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/4665899.png  used on inp
-ut line 569.
+ut line 565.
 (pdftex.def)             Requested size: 253.66455pt x 337.33511pt.
 
 
@@ -857,14 +857,14 @@ ut line 569.
 <../images/WO2011119902A1.png, id=797, 639.38875pt x 569.12625pt>
 File: ../images/WO2011119902A1.png Graphic file (type png)
 <use ../images/WO2011119902A1.png>
-Package pdftex.def Info: ../images/WO2011119902A1.png  used on input line 597.
+Package pdftex.def Info: ../images/WO2011119902A1.png  used on input line 593.
 (pdftex.def)             Requested size: 253.66455pt x 225.78806pt.
 <../Kinematic Mechanism Images/WO 2001_119902.png, id=798, 420.06938pt x 606.76
 688pt>
 File: ../Kinematic Mechanism Images/WO 2001_119902.png Graphic file (type png)
 <use ../Kinematic Mechanism Images/WO 2001_119902.png>
 Package pdftex.def Info: ../Kinematic Mechanism Images/WO 2001_119902.png  used
- on input line 605.
+ on input line 601.
 (pdftex.def)             Requested size: 253.66455pt x 366.40533pt.
 
 
@@ -874,11 +874,11 @@ Package pdftex.def Info: ../Kinematic Mechanism Images/WO 2001_119902.png  used
 
 [37]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 633.
+(Font)              <10> on input line 629.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 633.
+(Font)              <7> on input line 629.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 633.
+(Font)              <5> on input line 629.
 
 
 [38
@@ -892,11 +892,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FA79711A9587F17A812E258F227B449E;19221.
  ) 
 Here is how much of TeX's memory you used:
- 15240 strings out of 468130
- 251463 string characters out of 5430633
- 696850 words of memory out of 5000000
- 43333 multiletter control sequences out of 15000+600000
- 693711 words of font info for 160 fonts, out of 8000000 for 9000
+ 15232 strings out of 468130
+ 251318 string characters out of 5430633
+ 696902 words of memory out of 5000000
+ 43329 multiletter control sequences out of 15000+600000
+ 690528 words of font info for 157 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,1003b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/peyto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
@@ -909,9 +909,9 @@ C:/Users/peyto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 /Users/peyto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
 sers/peyto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/U
 sers/peyto/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (38 pages, 2907344 bytes).
+Output written on main.pdf (38 pages, 2909694 bytes).
 PDF statistics:
  929 PDF objects out of 1000 (max. 8388607)
  186 named destinations out of 1000 (max. 500000)
- 35873 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 33825 words of extra memory for PDF output out of 35830 (max. 10000000)
 
