@@ -1,0 +1,180 @@
+# Presentation Script: Slides 1-3
+# Miniature Tabletop Greenhouse Mechanism Design
+
+## SLIDE 1: Title Slide
+
+### Visual Elements:
+- **Background**: Clean, professional design with subtle greenhouse/garden theme
+- **Logo**: University/Institution logo (if applicable)
+- **Color Scheme**: Green and blue tones to reflect nature and technology
+
+### Content:
+**Main Title**: Miniature Tabletop Greenhouse Mechanism Design
+**Subtitle**: Six-Bar Linkage Solution for Desktop Plant Growing Applications
+**Authors**: Peyton Lettau, Sebastian Hondl, John Robinson, Will McConnell
+**Date**: [Current Date]
+**Course**: Advanced Mechanism Design
+
+### Speaker Notes:
+"Good [morning/afternoon], everyone. Today I'm excited to present our work on designing a mechanism for miniature tabletop greenhouses. This project addresses a real engineering challenge: how do we scale greenhouse automation from full-size applications down to desktop scale? Our solution uses a six-bar linkage mechanism to provide controlled access to plants while maintaining the functionality of larger greenhouse systems."
+
+---
+
+## SLIDE 2: Presentation Overview
+
+### Visual Elements:
+- **Layout**: Four main points with icons
+- **Icons**: Problem (scaling), Solution (mechanism), Method (analysis), Results (topology)
+- **Flow**: Left to right progression showing the problem-solving process
+
+### Content:
+**Title**: Presentation Overview
+
+**Four Key Points:**
+
+1. **Problem**: Scaling greenhouse mechanisms from full-size to desktop applications
+   - Full-scale mechanisms don't work at small scale
+   - New design challenges emerge
+
+2. **Solution**: Six-bar linkage mechanism for controlled panel access
+   - Provides smooth, controlled motion
+   - Enables full plant access and ventilation
+
+3. **Method**: Systematic type synthesis and patent analysis
+   - Mathematical analysis of mechanism topologies
+   - Evaluation of existing solutions
+
+4. **Results**: Watt I mechanism identified as optimal topology
+   - Meets all design requirements
+   - Clear path forward for implementation
+
+**Impact**: Enables practical desktop greenhouse automation
+
+### Speaker Notes:
+"Let me give you a quick overview of what we'll cover today. We started with a fundamental problem: existing greenhouse mechanisms work great at full scale, but when you try to scale them down to desktop size, they break down. Our solution is a six-bar linkage mechanism that provides controlled access to plants. We used systematic type synthesis and patent analysis to find the best approach, and we identified the Watt I mechanism as the optimal topology. The end result is a practical solution for desktop greenhouse automation."
+
+---
+
+## SLIDE 3: Introduction to Greenhouses
+
+### Visual Elements:
+- **Left Side**: Diagram of greenhouse cross-section showing light transmission
+- **Right Side**: Desktop greenhouse examples
+- **Center**: Arrow showing scaling challenge
+
+### Content:
+**Title**: Introduction to Greenhouses
+
+**Core Greenhouse Principles:**
+- **Function**: Creates controlled microclimate for plant growth
+- **Key Requirements**:
+  - High light transmission for photosynthesis
+  - Thermal retention to maintain temperature
+  - Moisture control for humidity management
+  - Balanced ventilation to prevent overheating
+
+**Scaling Challenge**: Same principles, compressed space, new constraints
+
+**Desktop Greenhouse Applications:**
+- **Benefits**: Year-round growing, space efficiency, educational value
+- **Market**: Home gardeners, educational institutions, research facilities
+- **Growing Trend**: Urban agriculture, sustainable living, STEM education
+
+### Speaker Notes:
+"Let's start with the basics. A greenhouse works by creating a controlled microclimate - it lets in sunlight for photosynthesis while trapping heat and moisture to create an ideal growing environment. The key requirements are high light transmission, thermal retention, moisture control, and balanced ventilation.
+
+Now, when we scale this down to desktop size, we face a fundamental challenge: the same principles apply, but we're working in a much more compressed space with new constraints. Desktop greenhouses offer significant benefits - year-round growing, space efficiency, and educational value. They're becoming increasingly popular for urban agriculture, sustainable living, and STEM education.
+
+But here's the problem: the mechanisms that work great at full scale don't work when you try to scale them down. This is where our project comes in - we need to design new mechanisms specifically for small-scale applications."
+
+---
+
+## Additional Speaker Notes for Transitions:
+
+### Transition from Slide 1 to Slide 2:
+"Before we dive into the technical details, let me give you an overview of our approach and what we discovered."
+
+### Transition from Slide 2 to Slide 3:
+"To understand why this is such an interesting problem, we need to look at how greenhouses work and what happens when we try to scale them down."
+
+### Transition from Slide 3 to Slide 4:
+"Now that we understand the basic principles, let's look at the specific challenges that emerge when we try to scale greenhouse mechanisms to desktop size."
+
+---
+
+## Timing Guidelines:
+
+### Slide 1 (Title): 30 seconds
+- Quick introduction
+- Set the stage for the presentation
+
+### Slide 2 (Overview): 1 minute
+- Give audience the big picture
+- Establish the problem-solving framework
+
+### Slide 3 (Introduction): 1.5 minutes
+- Build understanding of greenhouse principles
+- Introduce the scaling challenge
+- Set up the problem for the next slide
+
+**Total Time for Slides 1-3: 3 minutes**
+
+---
+
+## Visual Design Suggestions:
+
+### Slide 1:
+- **Font**: Large, bold title (36pt+)
+- **Layout**: Centered, professional
+- **Colors**: Dark green title, blue subtitle
+
+### Slide 2:
+- **Layout**: Four quadrants or horizontal flow
+- **Icons**: Use consistent icon style
+- **Colors**: Use color coding for each point
+
+### Slide 3:
+- **Layout**: Split screen with diagram and text
+- **Images**: High-quality greenhouse photos
+- **Charts**: Simple bullet points with clear hierarchy
+
+---
+
+## Key Messages to Emphasize:
+
+1. **This is a real engineering problem** - not just academic
+2. **Scaling is challenging** - existing solutions don't work
+3. **Our approach is systematic** - we used proper engineering methods
+4. **The solution is practical** - real-world application
+
+---
+
+## Questions to Anticipate:
+
+### After Slide 1:
+- "What's the difference between a greenhouse and a terrarium?"
+- "Why is this important for engineering?"
+
+### After Slide 2:
+- "How did you decide on a six-bar mechanism?"
+- "What other approaches did you consider?"
+
+### After Slide 3:
+- "What specific problems occur when scaling down?"
+- "How do you measure success in this type of project?"
+
+---
+
+## Backup Content (if time allows):
+
+### Additional Context for Slide 3:
+- **Historical perspective**: Greenhouses have been used for centuries
+- **Modern applications**: Vertical farming, urban agriculture
+- **Educational value**: STEM learning, hands-on experience
+- **Market size**: Growing industry with real commercial potential
+
+### Technical Details (if audience is technical):
+- **Light transmission**: Typically 80-90% for glass
+- **Thermal mass**: Critical for temperature stability
+- **Ventilation requirements**: Air exchange rates for plant health
+- **Scaling laws**: How physical properties change with size

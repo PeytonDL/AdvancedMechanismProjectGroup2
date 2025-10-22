@@ -1,0 +1,332 @@
+# Presentation Outline: Miniature Tabletop Greenhouse Mechanism Design
+
+## Slide 1: Title Slide
+- **Title**: Miniature Tabletop Greenhouse Mechanism Design
+- **Subtitle**: Six-Bar Linkage Solution for Desktop Plant Growing Applications
+- **Authors**: Peyton Lettau, Sebastian Hondl, John Robinson, Will McConnell
+- **Date**: [Current Date]
+- **Course**: Advanced Mechanism Design
+
+---
+
+## Slide 2: Presentation Overview
+- **Problem**: Scaling greenhouse mechanisms from full-size to desktop applications
+- **Solution**: Six-bar linkage mechanism for controlled panel access
+- **Method**: Systematic type synthesis and patent analysis
+- **Results**: Watt I mechanism identified as optimal topology
+- **Impact**: Enables practical desktop greenhouse automation
+
+---
+
+## Slide 3: Introduction to Greenhouses
+### Core Greenhouse Principles
+- **Function**: Creates controlled microclimate for plant growth
+- **Key Requirements**:
+  - High light transmission for photosynthesis
+  - Thermal retention to maintain temperature
+  - Moisture control for humidity management
+  - Balanced ventilation to prevent overheating
+- **Scaling Challenge**: Same principles, compressed space, new constraints
+
+---
+
+## Slide 4: Limitations of Small-Scale Greenhouses
+### Scaling Effects and Challenges
+- **Thermal Issues**:
+  - Low thermal mass → rapid temperature swings
+  - Condensation accumulation → plant damage risk
+- **Access Problems**:
+  - Airflow pathways easily blocked by foliage
+  - Limited space for maintenance operations
+  - Fragile glass panels (1/8" thick) require careful handling
+- **Mechanism Constraints**:
+  - Existing full-scale solutions don't scale down effectively
+  - Tiny components become tedious to operate
+  - Force scaling issues with cable systems and tension mechanisms
+
+### Current Small-Scale Solutions
+- **Low-tech options**: Cloches, hinged lids, sliding panels
+- **Limitations**: Manual operation, no hold-open features, limited access
+- **Need**: Automated, stable, one-hand operation with adjustable positioning
+
+---
+
+## Slide 5: Proposed Solution Overview
+### Design Objectives
+- **Primary Goal**: Compact mechanism for tabletop greenhouse access
+- **Key Features**:
+  - Simultaneous top and front panel opening
+  - Full, unobstructed plant access
+  - Stable, adjustable hold-positions for ventilation
+  - One-hand operation with spring balancing
+- **Constraints**: No linkages outside footprint, wall-compatible placement
+
+### Technical Requirements
+- **Spatial**: 18" × 18" × 24" envelope, 8 cm max ground pivot height
+- **Performance**: 0° to 45° rotation with translation, >90% opening area
+- **Load**: Support ~5 lb each for front and top panels
+- **Operation**: Single degree of freedom, single input, smooth motion
+
+---
+
+## Slide 6: Patent Analysis and Existing Solutions
+### Full-Scale Greenhouse Patents
+**Patent 1 - Portable Greenhouse (Koziol, 1974)**:
+- Multiple covered sides become complex at small scale
+- Mechanism components too small for reliable operation
+
+**Patent 2 - Cable System (Jaderloon, 1999)**:
+- Cable tension doesn't scale proportionally
+- Precise alignment requirements become impractical
+- Parts become fragile and expensive
+
+**Patent 3 - Window Mechanism (Bom, 1978)**:
+- Rigid bars and rotational joints show promise
+- Triangular guide-bar linkage offers scalability
+- Most suitable for adaptation to small-scale applications
+
+### Key Insight
+- **Full-scale mechanisms fail to scale down effectively**
+- **New design approach required for desktop applications**
+
+---
+
+## Slide 7: Methodology - Type Synthesis Process
+### Systematic Approach
+- **Method**: Erdman & Sandor (1990) systematic methodology
+- **Goal**: Identify optimal mechanism topology before dimensional synthesis
+- **Process**: Mathematical analysis → topology evaluation → selection
+
+### Four-Bar Analysis
+- **Gruebler's Equation**: F = 3(n-1) - 2f₁ - f₂
+- **Requirements**: Single DOF (F=1), revolute joints only (f₂=0)
+- **Result**: Four-bar mechanisms (n=4, f₁=4) insufficient for constraints
+- **Problem**: Cannot satisfy spatial constraints AND required motion
+
+### Six-Bar Development
+- **Advantage**: Two independent kinematic loops, greater design flexibility
+- **Link Types**: 2 ternary links + 4 binary links (standard KLSS)
+- **Topology**: Watt chain vs. Stephenson chain configurations
+
+---
+
+## Slide 8: Mechanism Topology Selection
+### Basic Kinematic Chains (BKCs)
+**Watt Chain**: Two ternary links sharing common connection
+**Stephenson Chain**: Ternary links separated by binary links
+
+### Kinematic Inversions
+- **Watt I, Watt II**: Different grounding configurations
+- **Stephenson I, II, III**: Various ternary link arrangements
+
+### Selection Criteria
+- **Ground Pivot Accessibility**: Critical differentiator
+- **Spatial Compatibility**: Must fit within greenhouse envelope
+- **Transmission Angles**: Favorable characteristics throughout motion
+- **Manufacturing**: Simplicity and cost-effectiveness
+
+---
+
+## Slide 9: Optimal Solution - Watt I Mechanism
+### Why Watt I?
+- **Ground Pivots**: Two accessible pivots at front base edge (15-20 cm separation)
+- **Structure**: Compact dual-loop with 8-20 cm link lengths
+- **Performance**: Favorable transmission angles throughout range
+- **Joints**: All seven joints as revolute (pin) joints for simplicity
+
+### Configuration Details
+- **Input**: Binary link connected to ground pivot G_A
+- **Motion**: Guides door through three precision positions:
+  - Closed (0°)
+  - Ventilation (~30°)
+  - Fully open (~45°)
+- **Operation**: Single user input, unified mechanism motion
+
+---
+
+## Slide 10: Design Process Evolution
+### Initial Approach
+- **Started**: Four-bar linkage for path generation
+- **Problem**: No feasible solutions within spatial constraints
+- **Analysis**: MATLAB MultiStart optimization attempts
+- **Result**: Four-bar approach abandoned
+
+### Solution Approach Options
+1. **Path Generation**: Coupler point guidance through precision positions
+2. **Motion Synthesis**: Angular/positional relationships of panels
+3. **Function Generation**: Top panel as ground, frame as input
+4. **Combined**: Function and motion generation simultaneously
+
+### Selected Approach
+- **Chosen**: Path generation methodology
+- **Reasoning**: Additional links provide more design variables
+- **Target**: Six-bar Watt I mechanism for path generation
+
+---
+
+## Slide 11: Current Progress and Results
+### Achievements
+- **Type Synthesis**: Complete - Watt I identified as optimal
+- **Patent Analysis**: Comprehensive evaluation of existing solutions
+- **Mathematical Framework**: Established for dimensional synthesis
+- **Design Requirements**: Clearly defined and quantified
+
+### Key Findings
+- **Four-bar inadequacy**: Confirmed insufficient for constraints
+- **Scaling challenges**: Full-scale mechanisms don't scale down
+- **Watt I advantages**: Optimal balance of complexity and performance
+- **Path forward**: Clear methodology for dimensional synthesis
+
+### Technical Specifications
+- **Mechanism Type**: Six-bar Watt I linkage
+- **DOF**: Single degree of freedom
+- **Joints**: Seven revolute (pin) joints
+- **Ground Pivots**: Two accessible at front base edge
+- **Motion Range**: 0° to 45° with translation
+
+---
+
+## Slide 12: Future Work and Next Steps
+### Immediate Next Phase
+- **Dimensional Synthesis**: Optimize link lengths and joint positions
+- **Force Analysis**: Calculate joint forces and spring balancing requirements
+- **Prototype Design**: Detailed CAD modeling and fabrication planning
+- **Testing Protocol**: Performance validation against design requirements
+
+### Long-term Goals
+- **Prototype Fabrication**: Physical mechanism construction
+- **Performance Testing**: Validation of design requirements
+- **Optimization**: Refinement based on testing results
+- **Documentation**: Complete design methodology and results
+
+### Expected Outcomes
+- **Functional Prototype**: Working desktop greenhouse mechanism
+- **Design Guidelines**: Methodology for small-scale mechanism design
+- **Technical Contribution**: Novel approach to scaled mechanism design
+
+---
+
+## Slide 13: Technical Specifications Summary
+### Design Requirements Met
+- **Spatial Constraints**: Mechanism fits within greenhouse envelope
+- **Motion Requirements**: Full range of motion with precision positions
+- **Load Requirements**: Supports panel weights with spring balancing
+- **Operation**: Single input, smooth motion, stable hold-positions
+- **Manufacturing**: Simple revolute joints, cost-effective design
+
+### Performance Characteristics
+- **Access**: >90% opening area for plant maintenance
+- **Stability**: Adjustable hold-positions for ventilation control
+- **Durability**: Robust design for repeated operation
+- **User Experience**: One-hand operation with minimal force
+
+---
+
+## Slide 14: Impact and Applications
+### Direct Applications
+- **Educational**: STEM learning, mechanism design education
+- **Research**: Controlled environment studies, plant research
+- **Commercial**: Desktop greenhouse products, urban agriculture
+- **Personal**: Home gardening, year-round growing
+
+### Technical Contributions
+- **Scaling Methodology**: Systematic approach to mechanism scaling
+- **Design Process**: Type synthesis for constrained applications
+- **Patent Analysis**: Evaluation framework for existing solutions
+- **Engineering Practice**: Real-world application of mechanism theory
+
+---
+
+## Slide 15: Questions and Discussion
+### Key Discussion Points
+- **Scaling Challenges**: How do we address mechanism scaling in general?
+- **Design Trade-offs**: Complexity vs. performance in constrained spaces
+- **Manufacturing**: Cost-effective production of small-scale mechanisms
+- **User Experience**: Balancing automation with simplicity
+
+### Open Questions
+- **Optimization**: What are the best approaches for dimensional synthesis?
+- **Materials**: Selection for durability and cost-effectiveness
+- **Testing**: How do we validate performance in small-scale applications?
+- **Future**: What other applications could benefit from this approach?
+
+---
+
+## Slide 16: Conclusion
+### Project Summary
+- **Problem**: Scaling greenhouse mechanisms to desktop applications
+- **Solution**: Six-bar Watt I mechanism for controlled panel access
+- **Method**: Systematic type synthesis and patent analysis
+- **Results**: Optimal topology identified with clear path forward
+
+### Key Achievements
+- **Technical**: Complete type synthesis and topology selection
+- **Methodological**: Systematic approach to scaling mechanism design
+- **Practical**: Real-world application with clear requirements
+- **Educational**: Comprehensive analysis and documentation
+
+### Next Steps
+- **Dimensional Synthesis**: Optimize mechanism parameters
+- **Prototype Development**: Build and test physical mechanism
+- **Performance Validation**: Confirm design requirements
+- **Documentation**: Complete design methodology
+
+---
+
+## Slide 17: References and Resources
+### Key References
+- Erdman, A. G., & Sandor, G. N. (1990). Mechanism Design: Analysis and Synthesis
+- Sandor, G. N., & Erdman, A. G. (1984). Advanced Mechanism Design: Analysis and Synthesis
+- Patent Analysis: Koziol (1974), Jaderloon (1999), Bom (1978)
+
+### Technical Resources
+- MATLAB MultiStart optimization
+- Gruebler's equation for mechanism analysis
+- Kinematic synthesis methodologies
+- Patent analysis frameworks
+
+---
+
+## Slide 18: Thank You
+### Contact Information
+- **Team**: Peyton Lettau, Sebastian Hondl, John Robinson, Will McConnell
+- **Course**: Advanced Mechanism Design
+- **Institution**: [University Name]
+- **Date**: [Current Date]
+
+### Questions and Discussion
+- **Technical Questions**: Mechanism design and synthesis
+- **Application Questions**: Desktop greenhouse applications
+- **Methodology Questions**: Scaling and design approaches
+- **Future Work**: Collaboration and development opportunities
+
+---
+
+## Presentation Notes and Tips
+
+### Visual Aids Needed
+- **Images**: Six-bar mechanism diagrams, Watt/Stephenson chains
+- **Diagrams**: Patent analysis comparisons, mechanism configurations
+- **Charts**: Design requirements, performance specifications
+- **Animations**: Mechanism motion, opening sequence
+
+### Key Messages to Emphasize
+1. **Scaling Challenge**: Full-scale mechanisms don't work at small scale
+2. **Systematic Approach**: Mathematical analysis leads to optimal solution
+3. **Practical Application**: Real-world desktop greenhouse application
+4. **Technical Rigor**: Complete type synthesis and patent analysis
+
+### Presentation Flow
+- **Start**: Problem context and motivation
+- **Build**: Technical challenges and existing solutions
+- **Develop**: Methodology and analysis process
+- **Conclude**: Results and future work
+- **Engage**: Questions and discussion
+
+### Time Allocation (20-minute presentation)
+- **Introduction**: 3 minutes (Slides 1-4)
+- **Problem Analysis**: 4 minutes (Slides 5-6)
+- **Methodology**: 5 minutes (Slides 7-9)
+- **Results**: 4 minutes (Slides 10-12)
+- **Conclusion**: 2 minutes (Slides 13-15)
+- **Q&A**: 2 minutes (Slides 16-18)
